@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Eventasy Support</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1 { color: #5C4033; }
+    a { color: #7b5d4b; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Eventasy Support</h1>
+  <p>Thank you for using Eventasy!</p>
+  <p>If you have questions, feedback, or issues with the app, please contact us:</p>
+  <ul>
+    <li>Email: <a href="mailto:myappstudio8@gmail.com">myappstudio8@gmail.com</a></li>
+  </ul>
+  <p>For privacy information, see our <a href="https://uae980.github.io/eventease-privacy-policy/">Privacy Policy</a>.</p>
+</body>
+</html>
